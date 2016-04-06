@@ -16,6 +16,8 @@
      to the new Ant path.
      !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->
+<!-- import environment variable -->
+    <property environment="env" />
 
 <!-- #############################################
      Import tasks from common build script.
